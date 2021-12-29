@@ -31,7 +31,7 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnginBolatt&theme=prussian">
+<img src="https://github-readme-stats.vercel.app/api?username=EnginBolat&theme=prussian">
 
 [twitter]: https://www.twitter.com/Enginnblt
 [linkedin]: https://www.linkedin.com/in/engin-bolat-8399271a6/
