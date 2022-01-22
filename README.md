@@ -7,8 +7,6 @@
 
 <font color ="aqua"> It was work on my machine 💁💻</font>
 
-<a href=""> Website</a>
-
 ### Reach out to me
 
 https://enginbolat.me
