@@ -11,10 +11,6 @@
 
 https://enginbolat.me
 
-
-<br />
-<br />
-
 ### Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25" >
