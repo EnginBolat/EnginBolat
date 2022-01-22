@@ -7,13 +7,11 @@
 
 <font color ="aqua"> It was work on my machine 💁💻</font>
 
-<a href="https://enginbolat.me"> Website</a>
+<a href=""> Website</a>
 
 ### Reach out to me
-<br />
 
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
+https://enginbolat.me
 
 
 <br />
