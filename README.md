@@ -23,8 +23,8 @@ https://enginbolat.me
 
 <p align="center">
 <a href="https://github.com/EnginBolat">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=EnginBolat&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="EnginBolat"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EnginBolat&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="EnginBolat"/>
 </a>
 </p>
 
