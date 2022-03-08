@@ -19,7 +19,14 @@ https://enginbolat.me
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnginBolat&theme=prussian">
+## 📊 My Github Stats
+
+<p align="center">
+<a href="https://github.com/EnginBolat">
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=serkanalc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="serkanalc"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+</a>
+</p>
 
 [twitter]: https://www.twitter.com/Enginnblt
 [linkedin]: https://www.linkedin.com/in/engin-bolat-8399271a6/
