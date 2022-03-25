@@ -14,6 +14,9 @@ https://enginbolat.me
 ### Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" width="25" height="25" >
+<img align="left" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/git.svg" width="30" height="30" >
+<img align="left" src="https://raw.githubusercontent.com/evlymn/firebase/3f0228819a95c29140d8ecd216a9c215ba7e7607/firebase-icon-set/firebase-logo/Firebase-logo-flat.svg" width="30" height="30" >
+
 
 <br />
 <br />
