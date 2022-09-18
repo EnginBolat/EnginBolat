@@ -9,7 +9,8 @@
 
 ### Reach out to me
 
-https://enginbolat.me
+[Twitter](https://www.twitter.com/Enginnblt)
+[Linkedin](https://www.linkedin.com/in/engin-bolat-8399271a6/)
 
 ### Tech I Use
 
@@ -32,5 +33,3 @@ https://enginbolat.me
 </a>
 </p>
 
-[twitter]: https://www.twitter.com/Enginnblt
-[linkedin]: https://www.linkedin.com/in/engin-bolat-8399271a6/
