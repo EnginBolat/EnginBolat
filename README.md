@@ -3,14 +3,9 @@
 
 ### Hi there, I'm Engin. :raising_hand_man:
 
-## Student at Akdeniz University | Trying to be a Software Developer
+## Student at Akdeniz University | Flutter Developer
 
 <font color ="aqua"> It was work on my machine 💁💻</font>
-
-### Reach out to me
-
-[Twitter](https://www.twitter.com/Enginnblt)
-[Linkedin](https://www.linkedin.com/in/engin-bolat-8399271a6/)
 
 ### Tech I Use
 
