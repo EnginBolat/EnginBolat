@@ -29,7 +29,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,kotlin" />
   </a>
 </p>
 
