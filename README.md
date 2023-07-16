@@ -59,7 +59,7 @@
   <a href="https://www.github.com/enginbolat">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="  https://www.instagram.com/enginn.blt/">
+  <a href="https://www.instagram.com/enginn.blt/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
