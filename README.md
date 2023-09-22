@@ -14,7 +14,7 @@
 <h3 align="left">Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,git,postman,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,git,postman,stackoverflow,vscode,figma" />
   </a>
 </p>
 
@@ -23,13 +23,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs,kotlin" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,kotlin,ts" />
   </a>
 </p>
 
