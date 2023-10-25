@@ -1,12 +1,11 @@
-<img width="55%" align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="500" />
+<img width="55%" align="right" src="https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif" height="400" />
 
 
 <h2> About Me</h2>
 
+- 🔭 I’m currently working on Flutter, React Native and .NET Core
 
-- 🔭 I’m currently working on Flutter and .NET Core
-
-- 👨🏼‍🏫 I’m currently learning Flutter, Dart, .NET Core
+- 👨🏼‍🏫 I’m currently learning Flutter, React Native and .NET Core
 
 - 💬 Talk to me about Sofware Development
 
@@ -22,6 +21,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter" />
+    <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
     <img src="https://skillicons.dev/icons?i=angular" />
   </a>
@@ -30,7 +30,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,cs,kotlin,ts" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart" />
   </a>
 </p>
 
