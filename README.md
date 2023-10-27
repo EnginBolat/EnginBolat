@@ -1,4 +1,4 @@
-<img width="55%" align="right" src="https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif" height="400" />
+<img width="55%" align="right" src="https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif" height="350" />
 
 
 <h2> About Me</h2>
