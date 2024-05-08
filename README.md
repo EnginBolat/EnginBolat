@@ -3,9 +3,9 @@
 
 <h2> About Me</h2>
 
-- 🔭 I’m currently working on Flutter, React Native and .NET Core
+- 🔭 I’m currently working on React Native and Swift
 
-- 👨🏼‍🏫 I’m currently learning Flutter, React Native and .NET Core
+- 👨🏼‍🏫 I’m currently learning React Native and Swift
 
 - 💬 Talk to me about Sofware Development
 
