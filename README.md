@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=flutter" />
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=dotnet" />
-    <img src="https://skillicons.dev/icons?i=angular" />
   </a>
 </p>
 
