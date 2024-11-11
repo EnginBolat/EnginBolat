@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on React Native and Swift
 
-- 👨🏼‍🏫 I’m currently learning React Native and Swift
-
 - 💬 Talk to me about Sofware Development
 
 
