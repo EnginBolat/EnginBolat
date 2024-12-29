@@ -18,9 +18,7 @@
 <h3 align="left">Framework & Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter" />
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,dotnet,nestjs" />
   </a>
 </p>
 
@@ -31,8 +29,6 @@
   </a>
 </p>
 
-
-
 <h3 align="left">Database</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -41,12 +37,8 @@
     
   </a>
 </p>
-   
-
-
-
+  
 <h2> Connect with me </h2>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/enginbolat/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
