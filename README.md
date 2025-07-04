@@ -34,27 +34,8 @@
   <a href="https://skillicons.dev">
     <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" >
     <img src="https://skillicons.dev/icons?i=firebase,mysql" />
-    
   </a>
 </p>
-  
-<h2> Connect with me </h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/enginbolat/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-    <a href="https://twitter.com/Enginnblt">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://www.github.com/enginbolat">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.instagram.com/enginn.blt/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-</p>
-
 </br>
 </br>
 <br>
