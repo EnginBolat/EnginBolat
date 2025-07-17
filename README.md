@@ -43,7 +43,7 @@
   <a href="https://medium.com/@engi.bolat" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="mailto:info@engi.bolat.com" target="_blank">
+  <a href="mailto:info@enginbolat.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
