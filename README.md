@@ -54,3 +54,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=enginbolat" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enginbolat&layout=compact&langs_count=10&theme=github_dark" />
+</p>
