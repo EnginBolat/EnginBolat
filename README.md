@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Engin Bolat</h1>
-<h3 align="center">🚀 Mobile Developer | React Native & Swift Enthusiast</h3>
+<h3 align="center">🚀 Mobile Developer | React Native and Swift Addict</h3>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNlMW05dGwzNHYxaGs3ZDMwNHM0aGQwMnhnbWwxbXMzaDlweGh4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif" width="200" alt="coding">
